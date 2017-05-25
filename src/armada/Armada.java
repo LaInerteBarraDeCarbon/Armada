@@ -38,7 +38,7 @@ public class Armada {
 		return formacionSoldados;
 	}
 
-	public Map<TipoSoldado, List<Soldado>> agrupar() {
-		Map<TipoSoldado, V>
-	}
+//	public Map<TipoSoldado, List<Soldado>> agrupar() {
+//		Map<TipoSoldado, V>
+//	}
 }
